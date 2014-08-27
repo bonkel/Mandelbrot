@@ -23,6 +23,8 @@ namespace mandelbrot
             //double MaxRe = 0.5;
             //double MinIm = -0.6;
 
+            //test
+
             double MinRe = Convert.ToDouble(textBox1.Text);
             double MaxRe = Convert.ToDouble(textBox2.Text);
             double MinIm = Convert.ToDouble(textBox3.Text);
